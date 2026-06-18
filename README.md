@@ -1,6 +1,21 @@
+
 <div align="center">
 
-<img src="header.svg" alt="KernelPolicyGuard" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=KernelPolicyGuard&fontSize=45&color=0:000000,100:0F172A&fontColor=00FF41&stroke=00FF41&strokeWidth=1&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%5BBOOT%5D+KernelPolicyGuard+Loaded;%5B*%5D+Attaching+fprobes...;%5B*%5D+Attaching+kprobes...;%5B*%5D+Loading+Policy+Engine...;%5B*%5D+Initializing+NUMA+Workqueues...;%5BREADY%5D+Production+Mode+Active." />
+
+<br/>
+
+[![Kernel](https://img.shields.io/badge/Kernel-5.10%2B-blue?style=for-the-badge&logo=linux&logoColor=white)](https://kernel.org)
+[![License](https://img.shields.io/badge/License-GPLv2-green?style=for-the-badge)](LICENSE)
+[![NUMA](https://img.shields.io/badge/NUMA-SMP-orange?style=for-the-badge&logo=intel)](#)
+[![Enterprise](https://img.shields.io/badge/Enterprise-Ready-brightgreen?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Production-blue?style=for-the-badge)](#)
+[![Hooks](https://img.shields.io/badge/Fprobe-Kprobe-purple?style=for-the-badge)](#)
+
+</div>
+```
 
 <br/>
 
